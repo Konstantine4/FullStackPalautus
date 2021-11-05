@@ -1,0 +1,10 @@
+title 0.6
+
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin-->selain: {"message":"note created"}
+
+
+note over selain
+selaimen määrittelemä js tiedoston koodi
+lähettää lomakkeen tiedot
+end note
