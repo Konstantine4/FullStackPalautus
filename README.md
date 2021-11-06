@@ -7,7 +7,7 @@ Different parts have there own directory where the completed assigments can be f
 
 
 1. osa0
-   - O.4
+   - 0.4
    - 0.5
    - 0.6
     
